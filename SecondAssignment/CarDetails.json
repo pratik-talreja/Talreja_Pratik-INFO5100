@@ -1,0 +1,59 @@
+[
+    {
+        "Car":{
+            "PK":"1",
+            "ModelName":"ABC",
+            "ModelNumber":"1234",
+            "ManufactureYear":"2012",
+            "Company":"Toyota",
+            "SeatCapacity":"3",
+            "SerialNumber":"ABC231",
+            "City":"Boston",
+            "Available": "True",
+            "UpdatedOn":"Q"
+        }
+    },
+    {
+        "Car":{
+            "PK":"2",
+            "ModelName":"ABC",
+            "ModelNumber":"1234",
+            "ManufactureYear":"2012",
+            "Company":"Toyota",
+            "SeatCapacity":"3",
+            "SerialNumber":"ABC231",
+            "City":"Boston",
+            "Available": "True",
+            "UpdatedOn":"Q"
+        }
+    },
+    {
+        "Car":{
+            "PK":"3",
+            "ModelName":"ABC",
+            "ModelNumber":"1234",
+            "ManufactureYear":"2012",
+            "Company":"Toyota",
+            "SeatCapacity":"3",
+            "SerialNumber":"ABC231",
+            "City":"Boston",
+            "Available": "True",
+            "UpdatedOn":"Q"
+        }
+    },
+    {
+        "Car":{
+            "PK":"4",
+            "ModelName":"ABC",
+            "ModelNumber":"1234",
+            "ManufactureYear":"2012",
+            "Company":"Toyota",
+            "SeatCapacity":"3",
+            "SerialNumber":"ABC231",
+            "City":"Boston",
+            "Available": "True",
+            "UpdatedOn":"Q"
+        }
+    }
+        
+]
